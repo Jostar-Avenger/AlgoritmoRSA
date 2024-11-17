@@ -1,0 +1,12 @@
+2024-11-17 17:49:00 [main] INFO  com.example.RSA - Scegli l'origine del testo da criptare:
+2024-11-17 17:53:25 [main] INFO  com.example.RSA - Chiavi pubbliche e private generate con successo.
+2024-11-17 17:53:25 [main] INFO  com.example.RSA - Chiave Pubblica: (e=65537, n=104392459454808835786763486297008912579)
+2024-11-17 17:53:25 [main] INFO  com.example.RSA - Chiave Privata: (d=8792687736554080495444450297058970113, n=104392459454808835786763486297008912579)
+2024-11-17 17:53:25 [main] INFO  com.example.RSA - Scegli l'origine del testo da criptare:
+2024-11-17 17:53:25 [main] INFO  com.example.RSA - Inserisci 1 se vuoi inserire il testo da tastiera o 2 se lo vuoi prendere da un file
+2024-11-17 17:53:43 [main] INFO  com.example.RSA - Inserisci il codice da criptare:
+2024-11-17 17:53:49 [main] INFO  com.example.RSA - Testo criptato: 79303205089824030257296377171387510417
+2024-11-17 17:53:49 [main] INFO  com.example.RSA - Testo decriptato: ciaoo
+2024-11-17 17:53:49 [main] INFO  com.example.RSA - Il testo decriptato è stato salvato con successo nel file output.txt
+2024-11-17 17:54:48 [main] INFO  com.example.RSA - Chiave Pubblica: (e=65537, n=133143615708925399145063400088900480907)
+2024-11-17 17:54:48 [main] INFO  com.example.RSA - Chiave Privata: (d=2218484647666913893539860766622787873, n=133143615708925399145063400088900480907)
